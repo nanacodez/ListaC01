@@ -1,2 +1,1 @@
-# faculdade
- atividades de algoritmos da faculdade
+atividades de algoritmos da faculdade
